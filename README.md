@@ -1,2 +1,2 @@
 # data_excel
-Plotting a graph of an excel file using matplotlib and pandas
+Plotting a graph by manipulating the data of an excel file using matplotlib and pandas
