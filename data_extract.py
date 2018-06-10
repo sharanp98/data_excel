@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt 
 import pandas as pd
 
 df =   pd.read_excel('original.xlsx', 'Sheet1' ) #original_file_name,sheetname
